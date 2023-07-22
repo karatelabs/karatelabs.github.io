@@ -3,12 +3,12 @@
 
 <svg
    width="2130"
-   height="1200"
-   viewBox="0 0 563.56248 317.5"
+   height="1065"
+   viewBox="0 0 563.56248 281.78125"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (b8e25be8, 2022-02-05)"
-   sodipodi:docname="karate-labs-wide-ring.svg"
+   inkscape:version="1.2.2 (b0a84865, 2022-12-01)"
+   sodipodi:docname="wide-dark.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -26,16 +26,18 @@
      units="px"
      height="1200px"
      inkscape:zoom="0.27455919"
-     inkscape:cx="1480.5551"
-     inkscape:cy="604.60552"
+     inkscape:cx="956.078"
+     inkscape:cy="752.11469"
      inkscape:window-width="1728"
-     inkscape:window-height="990"
+     inkscape:window-height="989"
      inkscape:window-x="0"
      inkscape:window-y="38"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="layer1-2"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="layer1"
      inkscape:snap-page="false"
-     inkscape:snap-grids="true">
+     inkscape:snap-grids="true"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1">
     <inkscape:grid
        type="xygrid"
        id="grid9"
@@ -60,7 +62,16 @@
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(0,-17.859377)">
+    <rect
+       style="fill:#000000;stroke-width:0.563108"
+       id="rect249"
+       width="563.5625"
+       height="281.78125"
+       x="-5.0000003e-06"
+       y="17.859375"
+       inkscape:label="black" />
     <g
        inkscape:label="Layer 1"
        id="layer1-2"
@@ -144,20 +155,12 @@
         </g>
         <g
            id="g832-3">
-          <circle
-             style="fill:#ffffff;stroke-width:2.2345"
+          <path
              id="circle471"
-             cx="158.83372"
-             cy="259.00403"
-             r="201.10445"
-             inkscape:label="circle-white" />
-          <circle
-             style="fill:#000000;stroke-width:2.16242"
-             id="path727"
-             cx="158.83372"
-             cy="259.00403"
-             r="194.6172"
-             inkscape:label="circle" />
+             style="fill:#ffffff;stroke-width:4.77353"
+             inkscape:label="circle-white"
+             d="M 599.80078,170.38281 A 429.61687,429.61687 0 0 0 170.18359,600 429.61687,429.61687 0 0 0 599.80078,1029.6172 429.61687,429.61687 0 0 0 1029.418,600 429.61687,429.61687 0 0 0 599.80078,170.38281 Z m 0,13.85938 A 415.75825,415.75825 0 0 1 1015.5586,600 415.75825,415.75825 0 0 1 599.80078,1015.7578 415.75825,415.75825 0 0 1 184.04297,600 415.75825,415.75825 0 0 1 599.80078,184.24219 Z"
+             transform="matrix(0.46810184,0,0,0.46810184,-121.93394,-21.857074)" />
           <g
              style="display:block;fill:#ffffff"
              id="g88-2"
